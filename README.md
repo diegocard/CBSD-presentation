@@ -1,4 +1,4 @@
-CBSD-presentation
+Component Based Software Development
 =================
 
-Presentation on component based software development
+View presentation [Here](http://slides.com/diegocard/dsbc/)
